@@ -7,8 +7,12 @@ Ciberprotector by webempresa.
 
 ### a) Tres caracteres en minúsculas.
 Contraseña aaa "Se tardarian 2 microsegundos en averiguarla"
+
+![](./images/1.JPG)
 ### b) Siete caracteres mezclando mayúsculas, minúsculas y caracteres especiales.
-Contraseña T6y7u8 "Se tardarían 38min en averiguarla"
+Contraseña T6y7u8. "Se tardarían 38min en averiguarla"
+
+![](./images/2.JPG)
 
 ## 2- Describe detalladamente donde se pueden ver los certificados digitales que hay instalados en un navegador.
 
