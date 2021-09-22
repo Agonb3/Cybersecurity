@@ -16,7 +16,9 @@ Contraseña T6y7u8. "Se tardarían 38min en averiguarla"
 
 ## 2- Describe detalladamente donde se pueden ver los certificados digitales que hay instalados en un navegador.
 
-En FireFox hay que acceder al menú "Herramientas" -> "Opciones" -> "Avanzado" -> "Seguridad" -> "Ver certificados".
+En FireFox hay que acceder al "menú de aplicación" (esquina superior derecha   -> "Ajustes" -> "Privacidad & Seguridad" -> "Seguridad" -> "Ver certificados".
+
+![](./images/3.JPG)
 
 ## 3- Escribe tres acciones que mejorarían la seguridad de un sistema.
 
