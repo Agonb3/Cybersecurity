@@ -14,3 +14,10 @@ Total consumo de Vatios= 390w
 Porcentaje extra= 390*0.3= 117w
 
 Para satisfacer la demanda de Vatios en mi centro de trabajo sería necesario comprar un SAI con una capacidad no inferior a 390+117=507w.
+
+
+Este es un ejemplo de SAI que podría satisfacer nuestras necesidades energeticas.
+
+![](./img/1.JPG)
+
+![](./img/2.JPG)
