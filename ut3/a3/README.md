@@ -1,8 +1,7 @@
 **UT3-A3. Explotando vulnerabilidades con Metasploit Framework VSFTPD y MySQL**
 
-En está práctica simularemos las vulnerabildades que pueda tener un servidor para explotarlas con nuestro Kali-Linux.
-En primera instancia, vamos a intentar acceder a una base de datos vulnerable.
-Para ello, iniciamos nuestra base de datos de kali con el siguiente comando.
+En está práctica simularemos las vulnerabilidades que pueda tener un servidor para explotarlas con nuestro Kali-Linux.
+Primero iniciaremos nuestra base de datos de kali con el siguiente comando.
 
 ![](./img/1.JPG)
 
@@ -33,3 +32,15 @@ Ahora buscaremos en las distintas bases de datos hasta encontrar información va
 Como podemos ver en una simple busqueda hemos encontrado nombres de usuario con sus repectivas tarjetas de crédito.
 
 ![](./img/9.JPG)
+
+Ahora intentaremos acceder a la consola del servidor mediante el protocolo ***ftp*** en el puerto ***21*** que previamente hemos visto abierto. Para ello buscaremos la vulneravilidad en nuestra base de datos con el siguiente comando.
+
+![](./img/10.JPG)
+
+Para iniciarlo tan solo debemos hacer uso del comando ***use*** seguido del nombre del exploit que hemos identificado en el paso anterior e introducimos el host de destino.
+
+![](./img/11.JPG)
+
+Con ***run*** iniciamos el proceso y ya estamos dentro de la consola del servidor con privilegios de root.
+
+![](./img/13.JPG)
