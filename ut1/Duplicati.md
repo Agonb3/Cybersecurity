@@ -1,4 +1,4 @@
-# UT1-A2. Copias de seguridad cifradas con Duplicati.
+# Copias de seguridad cifradas con Duplicati.
 
 Para instalar Duplicati en nuestra máquina Ubuntu, nos descargamos los paquetes desde su repositorio oficial y lo desempaquetamos.
 
